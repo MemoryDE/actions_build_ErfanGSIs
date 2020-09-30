@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://cloud189-shzh-person.oos-gdsz.ctyunapi.cn/41216113-0c9f-41db-9e6e-278e4a92a208.zip?x-amz-UFID=61328210790986384&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-SHID=169693083&x-amz-FSIZE=2633731699&Expires=1596277903&x-amz-UID=490369890&response-content-disposition=attachment%3Bfilename%3D%22MI9_MIUI12_20.7.30_10.0_BlueHill_5f4adf9051.zip%22&AWSAccessKeyId=18bd696e8df5d7a48893&x-amz-limitrate=25600&x-amz-CLOUDTYPEIN=PERSON&x-amz-CLIENTTYPEIN=WEB&Signature=0rwhnhc6TsX0jJQ/lsVhICsXjVg%3D
+  ROM_URL: https://cloud189-xizang-person.oos-xzls.ctyunapi.cn/PERSONCLOUD/3088d787-f66e-4b10-bfdd-ae283fdedd08.zip?response-content-disposition=attachment%3Bfilename%3D%22RedmiK20Pro_MIUI12_20.9.17_10.0_BlueHill_1e10fa5214.zip%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-CLIENTTYPEIN=WEB&Signature=aXWubPprDMjYtieIJ83rnof1R90%3D&x-amz-SHID=169851813&AWSAccessKeyId=532482dfdc85e5d60592&Expires=1601503179&x-amz-limitrate=25600&x-amz-FSIZE=2525971181&x-amz-UID=490369890&x-amz-UFID=61311111589037609
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
